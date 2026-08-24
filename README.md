@@ -94,11 +94,13 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/JeonJe/Algorithm/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/JeonJe/Algorithm/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/JeonJe/Algorithm/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/JeonJe/Algorithm/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +138,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/JeonJe/Algorithm/tree/main/0141-linked-list-cycle/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
