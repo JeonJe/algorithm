@@ -12,7 +12,7 @@
 |---|---:|---|
 | Baekjoon | 442 | 2026-04-16 |
 | Programmers | 207 | 2026-02-12 |
-| LeetCode | 64 | 2026-08-24 |
+| LeetCode | 64 | 2026-08-25 |
 | CodeTree | 111 | 2025-02-28 |
 | **Total** | **824** | - |
 <!-- SOLUTION_SUMMARY:END -->
@@ -21,6 +21,7 @@
 <!-- RECENT_SOLUTIONS:START -->
 | 날짜 | 문제 | 플랫폼 | 링크 |
 |---|---|---|---|
+| 2026-08-25 | **0033-search-in-rotated-sorted-array** | LeetCode | [코드](./0033-search-in-rotated-sorted-array) |
 | 2026-08-24 | **0226-invert-binary-tree** | LeetCode | [코드](./0226-invert-binary-tree) |
 | 2026-08-20 | **0371-sum-of-two-integers** | LeetCode | [코드](./0371-sum-of-two-integers) |
 | 2026-08-19 | **0152-maximum-product-subarray** | LeetCode | [코드](./0152-maximum-product-subarray) |
@@ -40,7 +41,6 @@
 | 2026-04-10 | **33937. 태권도와 복싱을 합한 운동** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/33937.%E2%80%85%ED%83%9C%EA%B6%8C%EB%8F%84%EC%99%80%E2%80%85%EB%B3%B5%EC%8B%B1%EC%9D%84%E2%80%85%ED%95%A9%ED%95%9C%E2%80%85%EC%9A%B4%EB%8F%99) |
 | 2026-04-09 | **32969. 학술대회 참가신청** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/32969.%E2%80%85%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%E2%80%85%EC%B0%B8%EA%B0%80%EC%8B%A0%EC%B2%AD) |
 | 2026-04-08 | **9070. 장보기** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/9070.%E2%80%85%EC%9E%A5%EB%B3%B4%EA%B8%B0) |
-| 2026-04-07 | **9094. 수학적 호기심** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/9094.%E2%80%85%EC%88%98%ED%95%99%EC%A0%81%E2%80%85%ED%98%B8%EA%B8%B0%EC%8B%AC) |
 <!-- RECENT_SOLUTIONS:END -->
 
 <!---LeetCode Topics Start-->
