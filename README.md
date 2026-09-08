@@ -93,12 +93,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JeonJe/Algorithm/tree/main/0100-same-tree/) | Easy |
 | [0133-clone-graph](https://github.com/JeonJe/Algorithm/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/JeonJe/Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JeonJe/Algorithm/tree/main/0100-same-tree/) | Easy |
 | [0133-clone-graph](https://github.com/JeonJe/Algorithm/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/JeonJe/Algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
@@ -142,10 +144,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JeonJe/Algorithm/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JeonJe/Algorithm/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/JeonJe/Algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
