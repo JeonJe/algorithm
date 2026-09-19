@@ -11,16 +11,17 @@
 | 플랫폼 | 풀이 수 | 최근 풀이일 |
 |---|---:|---|
 | Baekjoon | 442 | 2026-04-16 |
-| Programmers | 207 | 2026-02-12 |
+| Programmers | 208 | 2026-09-19 |
 | LeetCode | 64 | 2026-09-08 |
 | CodeTree | 111 | 2025-02-28 |
-| **Total** | **824** | - |
+| **Total** | **825** | - |
 <!-- SOLUTION_SUMMARY:END -->
 
 ## 🆕 최근 풀이
 <!-- RECENT_SOLUTIONS:START -->
 | 날짜 | 문제 | 플랫폼 | 링크 |
 |---|---|---|---|
+| 2026-09-19 | **118666. 성격 유형 검사하기** | Programmers | [코드](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/118666.%E2%80%85%EC%84%B1%EA%B2%A9%E2%80%85%EC%9C%A0%ED%98%95%E2%80%85%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0) |
 | 2026-09-08 | **0100-same-tree** | LeetCode | [코드](./0100-same-tree) |
 | 2026-08-25 | **0033-search-in-rotated-sorted-array** | LeetCode | [코드](./0033-search-in-rotated-sorted-array) |
 | 2026-08-24 | **0226-invert-binary-tree** | LeetCode | [코드](./0226-invert-binary-tree) |
@@ -40,7 +41,6 @@
 | 2026-04-14 | **34722. 출제자가 몇 명** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/34722.%E2%80%85%EC%B6%9C%EC%A0%9C%EC%9E%90%EA%B0%80%E2%80%85%EB%AA%87%E2%80%85%EB%AA%85) |
 | 2026-04-13 | **14470. 전자레인지** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/14470.%E2%80%85%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80) |
 | 2026-04-10 | **33937. 태권도와 복싱을 합한 운동** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/33937.%E2%80%85%ED%83%9C%EA%B6%8C%EB%8F%84%EC%99%80%E2%80%85%EB%B3%B5%EC%8B%B1%EC%9D%84%E2%80%85%ED%95%A9%ED%95%9C%E2%80%85%EC%9A%B4%EB%8F%99) |
-| 2026-04-09 | **32969. 학술대회 참가신청** | Baekjoon | [코드](./%EB%B0%B1%EC%A4%80/Bronze/32969.%E2%80%85%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%E2%80%85%EC%B0%B8%EA%B0%80%EC%8B%A0%EC%B2%AD) |
 <!-- RECENT_SOLUTIONS:END -->
 
 <!---LeetCode Topics Start-->
